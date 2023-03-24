@@ -1,7 +1,7 @@
 ### 👏 Hi! I'm Masafumi Ikeyama
 - Software Engineer in Japan
 - College Student at The University of Electro-Communications (電気通信大学)
-- Interested in `Cloud Native Development`, `Computational Neuroscience`
+- Interested in `Web Development`, `Computational Neuroscience`, `Artificial Intelligence`
 
 
 ### 💻 Skills
